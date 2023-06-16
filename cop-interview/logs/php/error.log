@@ -1,0 +1,285 @@
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 42
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 42
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 45
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 45
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 48
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 48
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 51
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 51
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 42
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 42
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 45
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 45
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 48
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 48
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 51
+[14-Jun-2023 01:56:39 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 51
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 42
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 42
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 45
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 45
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 48
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 48
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 51
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 51
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 42
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 42
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 45
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 45
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 48
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 48
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Undefined variable $post in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 51
+[14-Jun-2023 01:56:42 UTC] PHP Warning:  Attempt to read property "ID" on null in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_reg/preschool-registration-plugin.php on line 51
+[14-Jun-2023 02:05:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-admin/admin.php(34): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-admin/plugins.php(10): require_once('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-admin/admin.php(34): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-admin/plugins.php(10): require_once('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-blog-header.php(13): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/index.php(17): require('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-blog-header.php(13): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/index.php(17): require('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-admin/admin.php(34): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-admin/plugins.php(10): require_once('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-blog-header.php(13): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/index.php(17): require('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-admin/admin.php(34): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-admin/plugin-install.php(16): require_once('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-blog-header.php(13): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/index.php(17): require('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-blog-header.php(13): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/index.php(17): require('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/khristia...')
+#7 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-blog-header.php(13): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/index.php(17): require('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-admin/admin.php(34): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-admin/plugins.php(10): require_once('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-blog-header.php(13): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/index.php(17): require('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/khristia...')
+#7 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-blog-header.php(13): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/index.php(17): require('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-admin/admin-ajax.php(22): require_once('/Users/khristia...')
+#7 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-blog-header.php(13): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/index.php(17): require('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-admin/admin.php(34): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-admin/plugins.php(10): require_once('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:06:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rw_add_meta_box() in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php:55
+Stack trace:
+#0 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(308): preschool_registration_init('')
+#1 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-settings.php(623): do_action('init')
+#4 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-config.php(102): require_once('/Users/khristia...')
+#5 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-load.php(50): require_once('/Users/khristia...')
+#6 /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-blog-header.php(13): require_once('/Users/khristia...')
+#7 /Users/khristianmarcial/Local Sites/cop-interview/app/public/index.php(17): require('/Users/khristia...')
+#8 {main}
+  thrown in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_metabox/preschool-registration-metabox.php on line 55
+[14-Jun-2023 02:37:54 UTC] PHP Fatal error:  Cannot redeclare custom_post_type() (previously declared in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin/preschool-registration.php:16) in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin_2/test.php on line 18
+[14-Jun-2023 02:37:55 UTC] PHP Fatal error:  Cannot redeclare custom_post_type() (previously declared in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin/preschool-registration.php:16) in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin_2/test.php on line 18
+[14-Jun-2023 02:37:57 UTC] PHP Fatal error:  Cannot redeclare custom_post_type() (previously declared in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin/preschool-registration.php:16) in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin_2/test.php on line 18
+[14-Jun-2023 02:37:57 UTC] PHP Fatal error:  Cannot redeclare custom_post_type() (previously declared in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin/preschool-registration.php:16) in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin_2/test.php on line 18
+[16-Jun-2023 01:38:47 UTC] PHP Fatal error:  Cannot redeclare psr_register_meta_boxes() (previously declared in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin_2/preschool_reg.php:26) in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin_2/preschool_reg.php on line 67
+[16-Jun-2023 01:38:48 UTC] PHP Fatal error:  Cannot redeclare psr_register_meta_boxes() (previously declared in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin_2/preschool_reg.php:26) in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin_2/preschool_reg.php on line 67
+[16-Jun-2023 01:38:48 UTC] PHP Fatal error:  Cannot redeclare psr_register_meta_boxes() (previously declared in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin_2/preschool_reg.php:26) in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin_2/preschool_reg.php on line 67
+[16-Jun-2023 01:38:48 UTC] PHP Fatal error:  Cannot redeclare psr_register_meta_boxes() (previously declared in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin_2/preschool_reg.php:26) in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin_2/preschool_reg.php on line 67
+[16-Jun-2023 01:46:42 UTC] PHP Parse error:  syntax error, unexpected token "," in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin_2/preschool_reg.php on line 86
+[16-Jun-2023 01:46:42 UTC] PHP Parse error:  syntax error, unexpected token "," in /Users/khristianmarcial/Local Sites/cop-interview/app/public/wp-content/plugins/preschool_registration_plugin_2/preschool_reg.php on line 86
+[16-Jun-2023 02:23:55 UTC] WordPress database error Incorrect DATE value: '' for query 
+					SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID
+					FROM wp_posts  INNER JOIN wp_postmeta ON ( wp_posts.ID = wp_postmeta.post_id )  INNER JOIN wp_postmeta AS mt1 ON ( wp_posts.ID = mt1.post_id )  INNER JOIN wp_postmeta AS mt2 ON ( wp_posts.ID = mt2.post_id )
+					WHERE 1=1  AND ( 
+  ( wp_postmeta.meta_key = 'psr-registration_start_date' AND CAST(wp_postmeta.meta_value AS DATE) <= '' ) 
+  AND 
+  ( mt1.meta_key = 'psr-registration_end_date' AND CAST(mt1.meta_value AS DATE) >= '' ) 
+  AND 
+  ( 
+    ( mt2.meta_key = 'psr-registration_start_date' AND CAST(mt2.meta_value AS DATE) = '' ) 
+    OR 
+    ( mt2.meta_key = 'psr-registration_end_date' AND CAST(mt2.meta_value AS DATE) = '' )
+  )
+) AND wp_posts.post_type = 'preschool-reg' AND ((wp_posts.post_status = 'publish'))
+					GROUP BY wp_posts.ID
+					ORDER BY wp_posts.post_date DESC
+					LIMIT 0, 10
+				 made by require('wp-blog-header.php'), wp, WP->main, WP->parse_request, do_action_ref_array('parse_request'), WP_Hook->do_action, WP_Hook->apply_filters, rest_api_loaded, WP_REST_Server->serve_request, WP_REST_Server->dispatch, WP_REST_Server->respond_to_request, WP_REST_Posts_Controller->get_items, WP_Query->query, WP_Query->get_posts
