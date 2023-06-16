@@ -116,7 +116,7 @@ function get_prereg_meta_field($object, $field_name, $request) {
     return get_post_meta($object['id'], $field_name, true);
 }
 
-function prefix_modify_rest_query( $args, $request ) {
+function psr_modify_rest_query( $args, $request ) {
     $start_date = $request->get_param( 'registration_start_date' );
     $end_date = $request->get_param( 'registration_end_date' );
     $start_time = $request->get_param( 'registration_start_time' );
@@ -178,6 +178,6 @@ function prefix_modify_rest_query( $args, $request ) {
 
     return $args;
 }
-add_filter( 'rest_preschool-reg_query', 'prefix_modify_rest_query', 10, 2 );
+add_filter( 'rest_preschool-reg_query', 'psr_modify_rest_query', 10, 2 );
 
 ?>
