@@ -109,13 +109,13 @@ function register_prereg_meta_fields() {
     }
 }
 
-// Extend date time query param
 add_action('rest_api_init', 'register_prereg_meta_fields');
 
 function get_prereg_meta_field($object, $field_name, $request) {
     return get_post_meta($object['id'], $field_name, true);
 }
 
+// Extend date time param
 function psr_modify_rest_query( $args, $request ) {
     $start_date = $request->get_param( 'registration_start_date' );
     $end_date = $request->get_param( 'registration_end_date' );
