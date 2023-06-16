@@ -13,6 +13,7 @@ The project has the following structure:
 
 - WordPress: Make sure you have a working WordPress installation.
 - MySQL/MariaDB: Create an empty database for the project.
+- Metabox: Download and install the free Metabox plugin.
 
 ## Installation
 
@@ -28,10 +29,9 @@ The project has the following structure:
   ```
 - Enter your MySQL/MariaDB password when prompted.
 
-3. Activate the plugin:
-- Copy the plugin folder `wp-content/plugins/your-plugin` to the `wp-content/plugins/` directory of your WordPress installation.
+3. Activate the plugins:
 - Log in to your WordPress admin dashboard and go to "Plugins" > "Installed Plugins".
-- Find your plugin and click "Activate" to activate it.
+- Find Metabox and Preschool Registration plugins and click "Activate" to activate them.
 
 ## Usage
 
